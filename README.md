@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is abin</h1>
+<h1 align="center">Hi, my name is Abin</h1>
 <img src="https://i.imgflip.com/7h3okb.jpg" title="made at imgflip.com"/>
 
 <p align="center">
