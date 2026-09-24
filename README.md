@@ -1,9 +1,5 @@
 <h1 align="center">Hi, my name is Abin</h1>
-<img src="https://i.imgflip.com/7h3okb.jpg" title="made at imgflip.com"/>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=abinjshaju&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 <h1 align="center">Get in touch</h3>
 <p align="center">
